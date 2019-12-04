@@ -1,4 +1,4 @@
-<img src="/docs/rnsk-logo.jpg" alt="React Native Starter Kit" width="400" />
+<img src="https://github.com/react7press/IPR-SmartSelangorMobileApp/blob/master/ipr.png" alt="React Native Starter Kit" width="400" />
 
 ## 🚀 Getting Started
 
